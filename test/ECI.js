@@ -1,5 +1,6 @@
 ﻿var chai = require('chai');
-var assert = chai.assert;
+var expect = chai.expect;
+var ECI = require('../lib/ECI');
 
 describe('English Caps Inverse', function() {
 	var PickBan = 'Violence solves everything!\n\rIs that fear I smell?\n\r'
