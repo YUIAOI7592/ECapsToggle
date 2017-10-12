@@ -1,4 +1,5 @@
-﻿var expect = require('chai').expect;
+﻿var chai = require('chai');
+var expect = chai.expect;
 var ECI = require('../lib/ECI');
 
 describe('English Caps Inverse', function() {
