@@ -1,4 +1,5 @@
 # EnCapsInverse
+[![Build Status](https://travis-ci.org/YUIAOI7592/EnCapsInverse.svg?branch=master)](https://travis-ci.org/YUIAOI7592/EnCapsInverse)
 - [EnCapsInverse](#encapsinverse)
     - [測試環境](#%E6%B8%AC%E8%A9%A6%E7%92%B0%E5%A2%83)
     - [測試用套件](#%E6%B8%AC%E8%A9%A6%E7%94%A8%E5%A5%97%E4%BB%B6)
