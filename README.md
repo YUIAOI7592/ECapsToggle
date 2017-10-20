@@ -19,3 +19,5 @@
 <li>sinon：生產Test Double(測試替身)</li>
 </tt>
 </ul>
+## Travis測試
+https://travis-ci.org/YUIAOI7592/EnCapsInverse/builds/290272652
